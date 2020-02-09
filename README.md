@@ -7,9 +7,9 @@ Binary Classifier that draws a line to separate two different categories. Basic 
 
 >*Line drawn for the training data*
 
-![](images/Training.png)
+![](Images/Training.png)
 ---
 >*Line drawn for the test data*
 
-![](images/Prediction.png)
+![](Images/Prediction.png)
 ---
